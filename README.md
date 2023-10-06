@@ -6,7 +6,7 @@ Welcome to the Spy x Family Blog Platform! This platform allows users to read an
 
 ## Demo
 
-You can access the live demo of the Spy x Family Blog Platform [here](https://your-blog-platform-url.com).
+You can access the live demo of the Spy x Family Blog Platform [here](https://katekeim.github.io/spy-blog/)
 
 ## Features
 
