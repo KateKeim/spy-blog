@@ -1,6 +1,6 @@
 # Spy x Family Blog Platform
 
-![Spy x Family Banner](![screenshort-spy-blog](https://github.com/KateKeim/spy-blog/assets/110600575/70941cf9-0559-4a1e-b846-bf7cadcd5b94))
+![screenshort-spy-blog](https://github.com/KateKeim/spy-blog/assets/110600575/70941cf9-0559-4a1e-b846-bf7cadcd5b94)
 
 Welcome to the Spy x Family Blog Platform! This platform allows users to read and contribute blogs related to the "Spy x Family" anime. Users can also add their own blogs and leave comments on existing posts. The platform is built using HTML, CSS, and JavaScript.
 
